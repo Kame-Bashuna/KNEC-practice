@@ -1,0 +1,39 @@
+.bucket{
+    border: solid 2px;
+    border-color: black;
+    padding: 1px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    grid-template-rows: 0;
+    
+    
+}
+
+#second{
+    margin-right: 22%;
+    
+}
+#third{
+      border: solid 2px;
+      border-color: black;
+      margin-left: 5%;
+      border-right: 3px;
+}
+#forth{
+    background-color: green;
+    border: 1px;
+    padding: 20px;
+
+}
+#Kame{
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 130px;
+}
+#common{
+    display: flex;
+    justify-content: space-between;
+}
+    
